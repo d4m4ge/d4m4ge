@@ -8,7 +8,6 @@
 < Telegram   /      @dam4ge >
 < Discord    \   @no.damage >
 < Roblox     /    @nodam4ge >
-
 ```
 &zwnj; 
 &zwnj;
